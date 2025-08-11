@@ -1,0 +1,9 @@
+
+
+{
+  "Ip":"0.0.0.0",
+  "Port":10086,
+  "Name": "ZinTestP",
+  "WorkerPoolSize":15,
+  "TaskQueueSize":1024
+}
